@@ -18,4 +18,8 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/kashif7230/Leetcode/tree/master/0055-jump-game) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/kashif7230/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
