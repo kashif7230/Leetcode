@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/kashif7230/Leetcode/tree/master/0055-jump-game) |
+| [1510-stone-game-iv](https://github.com/kashif7230/Leetcode/tree/master/1510-stone-game-iv) |
 ## Greedy
 |  |
 | ------- |
@@ -22,4 +23,28 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/kashif7230/Leetcode/tree/master/0175-combine-two-tables) |
+## Math
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/kashif7230/Leetcode/tree/master/1510-stone-game-iv) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/kashif7230/Leetcode/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/kashif7230/Leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/kashif7230/Leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/kashif7230/Leetcode/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/kashif7230/Leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
