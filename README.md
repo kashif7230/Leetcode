@@ -6,10 +6,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/kashif7230/Leetcode/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/kashif7230/Leetcode/tree/master/0055-jump-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashif7230/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kashif7230/Leetcode/tree/master/0001-two-sum) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashif7230/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,4 +49,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kashif7230/Leetcode/tree/master/1510-stone-game-iv) |
+## Sorting
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashif7230/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
