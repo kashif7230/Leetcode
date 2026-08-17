@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kashif7230/Leetcode/tree/master/0001-two-sum) |
+| [0383-ransom-note](https://github.com/kashif7230/Leetcode/tree/master/0383-ransom-note) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kashif7230/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashif7230/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Dynamic Programming
@@ -59,4 +60,12 @@
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kashif7230/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/kashif7230/Leetcode/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/kashif7230/Leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
