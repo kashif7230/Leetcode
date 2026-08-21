@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kashif7230/Leetcode/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/kashif7230/Leetcode/tree/master/0055-jump-game) |
+| [0128-longest-consecutive-sequence](https://github.com/kashif7230/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kashif7230/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashif7230/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kashif7230/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kashif7230/Leetcode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/kashif7230/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0290-word-pattern](https://github.com/kashif7230/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/kashif7230/Leetcode/tree/master/0383-ransom-note) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kashif7230/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -75,4 +77,8 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kashif7230/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kashif7230/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
