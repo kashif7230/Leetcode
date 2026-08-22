@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/kashif7230/Leetcode/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/kashif7230/Leetcode/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/kashif7230/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/kashif7230/Leetcode/tree/master/0268-missing-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kashif7230/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashif7230/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kashif7230/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -15,6 +16,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kashif7230/Leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/kashif7230/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/kashif7230/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/kashif7230/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/kashif7230/Leetcode/tree/master/0383-ransom-note) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kashif7230/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -35,6 +37,7 @@
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/kashif7230/Leetcode/tree/master/0268-missing-number) |
 | [1510-stone-game-iv](https://github.com/kashif7230/Leetcode/tree/master/1510-stone-game-iv) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kashif7230/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Minimax
@@ -60,6 +63,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/kashif7230/Leetcode/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashif7230/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
@@ -82,4 +86,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kashif7230/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kashif7230/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kashif7230/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
