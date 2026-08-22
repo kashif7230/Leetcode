@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kashif7230/Leetcode/tree/master/1510-stone-game-iv) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kashif7230/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Minimax
 |  |
 | ------- |
