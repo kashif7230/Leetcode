@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kashif7230/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/kashif7230/Leetcode/tree/master/0015-3sum) |
 | [0055-jump-game](https://github.com/kashif7230/Leetcode/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/kashif7230/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/kashif7230/Leetcode/tree/master/0217-contains-duplicate) |
@@ -67,6 +68,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kashif7230/Leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/kashif7230/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kashif7230/Leetcode/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashif7230/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -100,4 +102,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kashif7230/Leetcode/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/kashif7230/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
