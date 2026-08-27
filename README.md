@@ -111,4 +111,12 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/kashif7230/Leetcode/tree/master/0071-simplify-path) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/kashif7230/Leetcode/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/kashif7230/Leetcode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
