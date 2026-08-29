@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/kashif7230/Leetcode/tree/master/0015-3sum) |
 | [0055-jump-game](https://github.com/kashif7230/Leetcode/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/kashif7230/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/kashif7230/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/kashif7230/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kashif7230/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/kashif7230/Leetcode/tree/master/0268-missing-number) |
@@ -103,6 +104,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/kashif7230/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kashif7230/Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
