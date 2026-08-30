@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/kashif7230/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kashif7230/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/kashif7230/Leetcode/tree/master/0268-missing-number) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/kashif7230/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kashif7230/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashif7230/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kashif7230/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/kashif7230/Leetcode/tree/master/0055-jump-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/kashif7230/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Database
 |  |
 | ------- |
