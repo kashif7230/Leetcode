@@ -5,7 +5,10 @@ class Solution:
       mx = nums.index(max(nums))
       l = min(mn,mx)
       r = max(mn,mx)
-      return min(r+1, n-l, n+l+1-r)
+      front = r+1
+      back = n-l
+      mid = n+l+1-r
+      return min(front,back,mid)
 
 
 
