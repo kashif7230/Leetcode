@@ -122,6 +122,7 @@
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/kashif7230/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/kashif7230/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/kashif7230/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
