@@ -18,6 +18,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashif7230/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kashif7230/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kashif7230/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/kashif7230/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [1510-stone-game-iv](https://github.com/kashif7230/Leetcode/tree/master/1510-stone-game-iv) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kashif7230/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kashif7230/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/kashif7230/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Minimax
 |  |
 | ------- |
