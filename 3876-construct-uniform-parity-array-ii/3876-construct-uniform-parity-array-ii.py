@@ -4,8 +4,8 @@ class Solution:
       for x in nums1:
         if x%2==1:  #odd check
           mn =min(mn,x)
-      for x in nums1:
-        if x%2==0 and mn!= float(inf) and x<mn: # even check 
+      for y in nums1:
+        if y%2==0 and mn!= float(inf) and y<mn: # even check 
           return False
       return True
 
