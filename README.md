@@ -96,6 +96,7 @@
 | [0071-simplify-path](https://github.com/kashif7230/Leetcode/tree/master/0071-simplify-path) |
 | [0290-word-pattern](https://github.com/kashif7230/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/kashif7230/Leetcode/tree/master/0383-ransom-note) |
+| [0796-rotate-string](https://github.com/kashif7230/Leetcode/tree/master/0796-rotate-string) |
 ## Counting
 |  |
 | ------- |
@@ -146,4 +147,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kashif7230/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/kashif7230/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
