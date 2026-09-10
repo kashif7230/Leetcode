@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kashif7230/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/kashif7230/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kashif7230/Leetcode/tree/master/0015-3sum) |
 | [0055-jump-game](https://github.com/kashif7230/Leetcode/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/kashif7230/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -43,6 +44,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kashif7230/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/kashif7230/Leetcode/tree/master/0055-jump-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kashif7230/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Database
@@ -123,6 +125,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kashif7230/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kashif7230/Leetcode/tree/master/0015-3sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kashif7230/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/kashif7230/Leetcode/tree/master/0283-move-zeroes) |
