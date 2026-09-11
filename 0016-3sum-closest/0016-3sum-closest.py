@@ -10,7 +10,7 @@ class Solution:
           check = nums[i]+nums[l]+nums[r]
           if check == target:
             return check
-          if abs(check-target) < abs(close-target):
+          if abs(check-target) < abs(close-target):  # value check kara,update kardo
             close = check
           if check <target:
             l+=1
