@@ -36,6 +36,7 @@
 | [0268-missing-number](https://github.com/kashif7230/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/kashif7230/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/kashif7230/Leetcode/tree/master/0383-ransom-note) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kashif7230/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kashif7230/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashif7230/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Dynamic Programming
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kashif7230/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kashif7230/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kashif7230/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
@@ -104,6 +106,7 @@
 | [0071-simplify-path](https://github.com/kashif7230/Leetcode/tree/master/0071-simplify-path) |
 | [0290-word-pattern](https://github.com/kashif7230/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/kashif7230/Leetcode/tree/master/0383-ransom-note) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kashif7230/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0796-rotate-string](https://github.com/kashif7230/Leetcode/tree/master/0796-rotate-string) |
 ## Counting
 |  |
@@ -161,4 +164,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/kashif7230/Leetcode/tree/master/0796-rotate-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kashif7230/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 <!---LeetCode Topics End-->
