@@ -37,6 +37,7 @@
 | [0290-word-pattern](https://github.com/kashif7230/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/kashif7230/Leetcode/tree/master/0383-ransom-note) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kashif7230/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/kashif7230/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kashif7230/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashif7230/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Dynamic Programming
@@ -99,6 +100,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kashif7230/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kashif7230/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/kashif7230/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kashif7230/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
@@ -107,6 +109,7 @@
 | [0290-word-pattern](https://github.com/kashif7230/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/kashif7230/Leetcode/tree/master/0383-ransom-note) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kashif7230/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/kashif7230/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/kashif7230/Leetcode/tree/master/0796-rotate-string) |
 ## Counting
 |  |
