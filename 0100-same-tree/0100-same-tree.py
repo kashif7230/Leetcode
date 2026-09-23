@@ -16,5 +16,5 @@ class Solution:
       
       left = self.isSameTree(p.left, q.left)
       right = self.isSameTree(p.right, q.right)
-      return True if left and right else False # if left and right are true return True
-
+      # return True if left and right else False (# if left and right are true return True)
+      return left and right
