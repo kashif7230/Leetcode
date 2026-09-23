@@ -171,4 +171,20 @@
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/kashif7230/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kashif7230/Leetcode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kashif7230/Leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kashif7230/Leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kashif7230/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
