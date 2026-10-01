@@ -106,6 +106,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kashif7230/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/kashif7230/Leetcode/tree/master/0071-simplify-path) |
 | [0290-word-pattern](https://github.com/kashif7230/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/kashif7230/Leetcode/tree/master/0383-ransom-note) |
@@ -145,6 +146,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kashif7230/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/kashif7230/Leetcode/tree/master/0071-simplify-path) |
 ## Linked List
 |  |
@@ -193,4 +195,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/kashif7230/Leetcode/tree/master/0078-subsets) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kashif7230/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
